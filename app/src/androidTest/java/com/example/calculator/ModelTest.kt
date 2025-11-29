@@ -1,8 +1,8 @@
 package com.example.calculator
 
-import com.student.calculator.model.CalculationHistory
-import com.student.calculator.model.Operation
-import com.student.calculator.model.CalculatorState
+import com.example.calculator.model.CalculationHistory
+import com.example.calculator.model.Operation
+import com.example.calculator.model.CalculatorState
 import org.junit.Assert.*
 import org.junit.Test
 

@@ -1,7 +1,7 @@
 package com.example.calculator
 
-import com.student.calculator.data.HistoryStorage
-import com.student.calculator.model.CalculationHistory
+import com.example.calculator.data.HistoryStorage
+import com.example.calculator.model.CalculationHistory
 import org.junit.Assert.*
 import org.junit.Before
 import org.junit.Test
