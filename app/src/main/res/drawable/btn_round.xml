@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Основни цветове за тъмна/светла тема -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray_100">#F5F5F5</color>
+    <color name="gray_200">#E0E0E0</color>
+    <color name="gray_300">#CCCCCC</color>
+    <color name="gray_400">#999999</color>
+
+    <!-- Цветове за акценти (като модерните калкулатори – зелено) -->
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_green_dark">#2E7D32</color>
+
+    <!-- Цветове за номерата -->
+    <color name="button_number_bg">#FFFFFF</color>
+    <color name="button_number_text">#000000</color>
+
+    <!-- Цветове за операторите -->
+    <color name="button_operator_bg">#E8F5E9</color>
+    <color name="button_operator_text">#4CAF50</color>
+
+    <!-- Цвят за бутона "=" -->
+    <color name="button_equals_bg">#4CAF50</color>
+    <color name="button_equals_text">#FFFFFF</color>
+
+    <!-- Цвят за бутона C -->
+    <color name="button_clear_text">#D32F2F</color>
+    <color name="button_clear_bg">#FFEBEE</color>
+
+</resources>

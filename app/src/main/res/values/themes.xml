@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Тема на приложението -->
+    <style name="Theme.Calculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+
+    <!-- Ред (horiz layout) -->
+    <style name="CalcRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <!-- Базов стил за всички бутони -->
+    <style name="CalcButtonBase">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Светъл бутон -->
+    <style name="CalcButtonWhite" parent="CalcButtonBase">
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- Сив бутон -->
+    <style name="CalcButtonGrey" parent="CalcButtonBase">
+        <item name="android:background">#D6D6D6</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <!-- Зелен бутон за операциите -->
+    <style name="CalcButtonGreen" parent="CalcButtonBase">
+        <item name="android:background">#38A169</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

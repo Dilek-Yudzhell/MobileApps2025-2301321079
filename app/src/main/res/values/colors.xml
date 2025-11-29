@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- бутони -->
+    <color name="grey_light">#ECECEC</color>
+    <color name="grey_dark">#8A8A8A</color>
+    <color name="green_main">#4CAF50</color>
+</resources>

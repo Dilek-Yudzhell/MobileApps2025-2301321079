@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калкулатор</string>
+    <string name="history_title">История</string>
+    <string name="empty_history">Няма записани изчисления</string>
+    <string name="clear_history">Изчисти историята</string>
+    <string name="clear_history_confirm">Сигурни ли сте, че искате да изтриете цялата история?</string>
+    <string name="yes">Да</string>
+    <string name="no">Не</string>
+    <string name="error">Грешка</string>
+</resources>
